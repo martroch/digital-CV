@@ -32,6 +32,16 @@
         "URL": "https://www.linkedin.com/in/marta-martinez-rocher-5368351a4/"
       }
     ],
+    "interestingFacts": [
+      {
+        "topic": "Taveling",
+        "fact": "I am enthusiastic about traveling, discovering new places and cultures. It helps me to have a more open mind."
+      },
+      {
+        "topic": "Photography",
+        "fact": "Since I was little I like to take photos of the places I visit and the people around me. I have a Canon that comes with me whenever I travel"
+      }
+    ],
     "recommendations": [
       {
         "title": "Atomic Design",
