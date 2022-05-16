@@ -1,0 +1,447 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "settings": {
+    "language": "EN",
+    "MACVersion": "0.3"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Marta",
+      "surnames": "Martínez Rocher",
+      "title": "Front-end / UX/UI / product and graphic designer",
+      "description": "I consider myself a proactive and very creative person, continually searching to obtain innovative and different designs that capture the user's attention.",
+      "avatar": {
+        "alt": "marta-martinez-2.jpg",
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/24/8afb0a90-1f15-4b55-9cc4-6a57199d2ffc_marta-martinez-2.jpg"
+      },
+      "location": {
+        "notes": "Valencia, Spain"
+      }
+    },
+    "relevantLinks": [
+      {
+        "type": "other",
+        "URL": "https://frontend.esatid3-2021.com/marta/"
+      },
+      {
+        "type": "github",
+        "URL": "https://github.com/martroch"
+      },
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/marta-martinez-rocher-5368351a4/"
+      }
+    ],
+    "recommendations": [
+      {
+        "title": "Atomic Design",
+        "type": "other",
+        "URL": "https://bradfrost.com/blog/post/atomic-web-design/",
+        "authors": [
+          {
+            "name": "Brad",
+            "surnames": "Frost",
+            "title": "Author"
+          }
+        ],
+        "summary": "Designing systems of components."
+      }
+    ]
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "Portega estudio creativo ",
+          "image": {
+            "alt": "logo portega.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/05/12/1d4145b5-e315-48e1-b562-304409d1720d_logo-portega.png"
+          },
+          "URL": "https://www.portega.es/"
+        },
+        "roles": [
+          {
+            "name": "Designer",
+            "startDate": "2020-11-01",
+            "challenges": [
+              {
+                "description": "I worked as Graphic designer doing catalogues and content for companies, as a web design doing the designs on Figma and using Avada Them on Wordpress to develop the website and as a product designer, doing 3D, renders and interior design"
+              }
+            ],
+            "competences": [
+              {
+                "name": "Adobe After Effects",
+                "type": "technology"
+              },
+              {
+                "name": "Adobe Illustrator",
+                "type": "technology"
+              },
+              {
+                "name": "Adobe Photoshop",
+                "type": "technology"
+              },
+              {
+                "name": "Adobe Premiere Pro",
+                "type": "technology"
+              },
+              {
+                "name": "Figma",
+                "type": "technology"
+              },
+              {
+                "name": "Keyshot 3D",
+                "type": "technology"
+              },
+              {
+                "name": "Rhinoceros",
+                "type": "technology"
+              },
+              {
+                "name": "WordPress",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Nachot Timón Diseño Industrial",
+          "image": {
+            "alt": "download.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/05/12/0a7b3501-0814-4ac1-9000-8dcc19e17485_download.png"
+          },
+          "URL": "https://www.nachotimon.com/"
+        },
+        "roles": [
+          {
+            "name": "Designer",
+            "startDate": "2019-10-01",
+            "finishDate": "2020-09-01",
+            "challenges": [
+              {
+                "description": "I worked as a product designer "
+              }
+            ],
+            "competences": [
+              {
+                "name": "Adobe CC",
+                "type": "technology"
+              },
+              {
+                "name": "Keyshot 3D",
+                "type": "technology"
+              },
+              {
+                "name": "Rhinoceros",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "projects": [
+      {
+        "details": {
+          "name": "All Nature App",
+          "description": "Create a web page that communicates the values ​​of the app all nature (relaxation application that stands out for its immersive 360º ​​videos) seeks to get subscriptions and downloads",
+          "URL": "https://frontend.esatid3-2021.com/marta-beta/",
+          "image": {
+            "alt": "web-all-nature-app.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/05/16/8adbdfa9-5912-4802-abb9-1a2d13f4d89a_web-all-nature-app.png"
+          }
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2022-04-01",
+            "finishDate": "2022-04-01",
+            "competences": [
+              {
+                "name": "CSS",
+                "type": "technology"
+              },
+              {
+                "name": "Figma",
+                "type": "technology"
+              },
+              {
+                "name": "HTML",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "PHP",
+                "type": "technology"
+              },
+              {
+                "name": "Scss",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "About me",
+          "description": "Web about me to let people discover a bit more abut how I am and what I do",
+          "URL": "https://frontend.esatid3-2021.com/marta/",
+          "image": {
+            "alt": "about me marta martnez .jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/05/16/4b324324-0408-489d-a245-2bdce6454b2b_about-me-marta-martn.jpg"
+          }
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2022-01-01",
+            "finishDate": "2022-02-01",
+            "competences": [
+              {
+                "name": "CSS",
+                "type": "technology"
+              },
+              {
+                "name": "Figma",
+                "type": "technology"
+              },
+              {
+                "name": "HTML",
+                "type": "technology"
+              },
+              {
+                "name": "Scss",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "English"
+      },
+      {
+        "name": "Italian"
+      },
+      {
+        "name": "Spanish"
+      },
+      {
+        "name": "Valencian"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "PHP",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JavaScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "React",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "HTML",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Figma",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Adobe Photoshop",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Adobe Illustrator",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Adobe InDesign",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Adobe After Effects",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Adobe Premiere Pro",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Scss",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Rhinoceros",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Keyshot 3D",
+          "type": "technology"
+        }
+      }
+    ],
+    "studies": [
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Front End Web Design and Development",
+        "startDate": "2021-10-01",
+        "finishDate": "2022-06-01",
+        "institution": {
+          "name": "ESAT",
+          "URL": "https://www.esat.es/estudios/postgrado-especializado-en-diseno-y-desarrollo-web-front-end/",
+          "image": {
+            "alt": "download.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/05/12/2df1574b-3442-4c55-ae87-c5efef89c0f1_download.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "CSS",
+            "type": "technology"
+          },
+          {
+            "name": "Figma",
+            "type": "technology"
+          },
+          {
+            "name": "HTML",
+            "type": "technology"
+          },
+          {
+            "name": "JavaScript",
+            "type": "technology"
+          },
+          {
+            "name": "PHP",
+            "type": "technology"
+          },
+          {
+            "name": "React",
+            "type": "technology"
+          },
+          {
+            "name": "Scss",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "Advanced (CAE)",
+        "startDate": "2020-10-01",
+        "finishDate": "2021-06-01",
+        "institution": {
+          "name": "Cambrige ",
+          "description": "Title that accredits my advanced level of English and my fluency in speaking and the use of it",
+          "image": {
+            "alt": "download-1.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/05/16/fdec044a-4457-4c67-8a40-373bd0a77695_download-1.png"
+          }
+        }
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Industrial design engineering and product development ",
+        "startDate": "2016-09-01",
+        "finishDate": "2020-10-01",
+        "institution": {
+          "name": "CEU Cardenal Herrera",
+          "URL": "https://www.uchceu.es/estudios/grado/ingenieria-diseno-industrial-desarrollo-productos",
+          "image": {
+            "alt": "portada_universidad_logo.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/05/12/4f55adec-d064-4290-8df1-77184ca655b0_portada_universidad_.jpg"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Adobe CC",
+            "type": "technology"
+          },
+          {
+            "name": "Keyshot 3D",
+            "type": "technology"
+          },
+          {
+            "name": "Rhinoceros",
+            "type": "technology"
+          }
+        ]
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "type": "linkedin",
+          "URL": "https://www.linkedin.com/in/marta-martinez-rocher-5368351a4/"
+        }
+      ]
+    },
+    "preferences": {
+      "preferredCompetences": [
+        {
+          "name": "Adobe CC",
+          "type": "technology"
+        },
+        {
+          "name": "Figma",
+          "type": "technology"
+        },
+        {
+          "name": "HTML",
+          "type": "technology"
+        },
+        {
+          "name": "Scss",
+          "type": "technology"
+        }
+      ]
+    }
+  }
+}
