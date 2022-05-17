@@ -315,6 +315,12 @@
       },
       {
         "skill": {
+          "name": "WordPress",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Scss",
           "type": "technology"
         }
@@ -322,6 +328,12 @@
       {
         "skill": {
           "name": "Rhinoceros",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JSON",
           "type": "technology"
         }
       },
